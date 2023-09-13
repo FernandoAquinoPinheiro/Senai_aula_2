@@ -44,9 +44,9 @@
 # 4 Crie um sistema que multiplique 2 numeros;
 
 print("digite um valor")
-valor1 = input()
+valor1 =int( input())
 print("Digite um segundo valor")
-valor2 = input()
+valor2 =int( input())
 
 resultado = valo1 * valor2
 
